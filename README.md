@@ -2,7 +2,7 @@ Internship on Data Science and Business Analytics
 
 Name : Gopal Kate
 
-Task 01 : Prediction using Suoervised ML
+Task 01 : Prediction using Supervised Machine Learning
 
 Simple Linear Regression is the regression task we will predict the as per the data.
 
